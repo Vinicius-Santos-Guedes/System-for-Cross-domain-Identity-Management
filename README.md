@@ -80,6 +80,6 @@ Um “Recurso” é um objeto JSON contendo um atributo “esquema” que indica
 
 ## Conclusão
 Embora existam padrões para descrever e trocar informações do usuário, muitos desses padrões podem ser difíceis de implementar e usar. As especificações SCIM são projetadas para tornar o gerenciamento de identidade em aplicativos e serviços baseados em nuvem mais fácil, barato e rápido.
-
+Usar o SCIM para provisionar, atualizar e desprovisionar usuários e grupos removerá essa carga de trabalho dos administradores atuais.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
