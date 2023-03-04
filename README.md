@@ -4,7 +4,7 @@
 
 ## O que é SCIM
 
-A especificação System for Cross-domain Identity Management (SCIM) foi projetada para gerenciar a identidade do usuário em aplicativos e serviços baseados em nuvem de uma forma padronizada para permitir interoperabilidade, segurança e escalabilidade.
+A especificação do System for Cross-domain Identity Management (SCIM) foi criada para simplificar a gestão das identidades dos usuários em aplicativos e serviços em nuvem, oferecendo um padrão para a troca de informações entre diferentes sistemas. Essa padronização ajuda a garantir a interoperabilidade, segurança e escalabilidade necessárias para lidar com identidades de usuários que precisam ser gerenciadas em várias plataformas e serviços. O SCIM é uma solução especialmente útil para empresas que trabalham com múltiplos sistemas e aplicativos, proporcionando uma maneira eficiente de gerenciar e manter as identidades dos usuários em diferentes contextos de nuvem.
 
 
 ## Problemática
